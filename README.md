@@ -16,7 +16,7 @@ PS I am currently seeking a mentor or someone to help me out with tips and trick
 knowledge in programming and the likes. i have all the understand but none of the skill
 i become pretty retarded when i comes to applying it
 
-STAY TUNE. . . README.md coming soon.
+STAY TUNE. . . a better more proffesional README.md coming soon.  IM A NOOB!
 
 <!---
 xB01299ONE/xB01299ONE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
