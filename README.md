@@ -5,12 +5,11 @@ Matrix/simulatrix/or tessarect/Universe, the bigger picture;that nobody seems to
 Protecting & Perservance of OUR world/or system, MAN & Machine Unity and Understanding,  HISTORY and ORIGINS
 basically everything/anything from building cars,living out in the wild, to the very core of technology and internet of things.
 
-- 🌱 I’m currently learning everything i can, still have not found a launguage that calls me, but LISP seems to be poking at me.
+- 🌱 I’m currently learning everything I can. As for languages to start with I chose or rather they chose me C,Python, and Rustc though rust I chose myself.
 LINUX & Android! incredibly dangerous and powerful talk about memory/data and time loss Dejavu! Wiring, circuitboards, and soldering
 - 💞️ I’m looking to collaborate on everything! currently working on little projects on the raspberry pi and android platforms,
 delving into both hardware modding and software programming, i will soon be reaching out for help on these x)
 
-- 📫 How to reach me. . . anyone can reach out to me at arbitrarycommander369@yahoo.com, brydevops@gmail.com
 
 PS I am currently seeking a mentor or someone to help me out with tips and tricks and gaining a little more
 knowledge in programming and the likes. i have all the understand but none of the skill
